@@ -1,0 +1,33 @@
+_repo: Tartarin-de-Tarascon_10687
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Daudet, Alphonse
+    alias: Daudet, Louis Marie Alphonse
+    birthdate: 1840
+    deathdate: 1897
+    gutenberg_agent_id: '727'
+    url: http://www.gutenberg.org/2009/agents/727
+    wikipedia: http://en.wikipedia.org/wiki/Alphonse_Daudet
+  editor:
+    agent_name: Cerf, Barry
+    birthdate: 1881
+    gutenberg_agent_id: '40511'
+    url: http://www.gutenberg.org/2009/agents/40511
+description: Introduction, notes and excercises in English.
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10687'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lion hunting -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Algeria -- Fiction'
+- GITenberg
+title: Tartarin de Tarascon
+url: http://www.gutenberg.org/ebooks/10687
