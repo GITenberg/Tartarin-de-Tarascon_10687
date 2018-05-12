@@ -1,5 +1,8 @@
 _repo: Tartarin-de-Tarascon_10687
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Daudet, Alphonse
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '40511'
     url: http://www.gutenberg.org/2009/agents/40511
 description: Introduction, notes and excercises in English.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10687#Tartarin-de-Tarascon
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
